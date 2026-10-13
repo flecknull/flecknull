@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180">
+  <defs>
+    <style>
+      .m{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+      .h{fill:#e6edf3;font-size:14px;letter-spacing:1px}
+      .n{fill:#3ddc84;font-size:15px;font-weight:700}
+      .d{fill:#c9d1d9;font-size:14px}
+      .ln{stroke:#30363d}
+      .pulse{animation:p 1.6s ease-in-out infinite}
+      @keyframes p{50%{opacity:.35}}
+    </style>
+  </defs>
+
+  <g class="m">
+    <text x="4" y="26" font-size="20" fill="#3ddc84" letter-spacing="2">02  /</text>
+    <text x="96" y="26" font-size="20" fill="#e6edf3" letter-spacing="3" font-weight="700">PROJECT ARCHIVE</text>
+  </g>
+  <line x1="340" y1="19" x2="996" y2="19" stroke="#30363d"/>
+
+  <rect x="4" y="50" width="992" height="126" rx="4" fill="#0b0f14" stroke="#30363d"/>
+  <rect x="5" y="51" width="990" height="38" fill="#0f141a"/>
+  <line class="ln" x1="4" y1="90" x2="996" y2="90"/>
+  <line class="ln" x1="4" y1="133" x2="996" y2="133"/>
+  <line class="ln" x1="300" y1="50" x2="300" y2="176"/>
+  <line class="ln" x1="790" y1="50" x2="790" y2="176"/>
+
+  <g class="m">
+    <text class="h" x="54" y="75">PROJECT</text>
+    <text class="h" x="322" y="75">PURPOSE</text>
+    <text class="h" x="812" y="75">STATUS</text>
+
+    <!-- row 1 -->
+    <text x="22" y="117" fill="#8b949e" font-size="14">&gt;</text>
+    <text class="n" x="54" y="117">fleck-linux-toolkit</text>
+    <path d="M247 106h-6v12h12v-6M248 105h6v6M254 105l-7 7" fill="none" stroke="#3ddc84" stroke-width="1.5"/>
+    <text class="d" x="322" y="117">Linux diagnostics and administration utilities</text>
+    <circle class="pulse" cx="818" cy="112" r="5" fill="#3ddc84"/>
+    <text x="832" y="117" fill="#3ddc84" font-size="14">Building</text>
+
+    <!-- row 2 -->
+    <text x="22" y="160" fill="#8b949e" font-size="14">&gt;</text>
+    <text class="n" x="54" y="160">fleck-ai</text>
+    <path d="M150 149h-6v12h12v-6M151 148h6v6M157 148l-7 7" fill="none" stroke="#3ddc84" stroke-width="1.5"/>
+    <text class="d" x="322" y="160">Modular personal AI assistant</text>
+    <circle cx="818" cy="155" r="5" fill="#8b949e"/>
+    <text x="832" y="160" fill="#c9d1d9" font-size="14">Planned</text>
+  </g>
+</svg>

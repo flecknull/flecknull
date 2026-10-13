@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170">
+  <defs>
+    <style>
+      .m{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+      .ic{fill:none;stroke:#3ddc84;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+      .box{fill:#0d1117;stroke:#2a3a33}
+      .card{fill:#0f141a}
+      .t{fill:#e6edf3;font-size:15px;font-weight:700}
+      .s{fill:#8b949e;font-size:13px}
+    </style>
+  </defs>
+
+  <g class="m">
+    <text x="4" y="26" font-size="20" fill="#3ddc84" letter-spacing="2">01  /</text>
+    <text x="96" y="26" font-size="20" fill="#e6edf3" letter-spacing="3" font-weight="700">CURRENT OPERATIONS</text>
+  </g>
+  <line x1="378" y1="19" x2="996" y2="19" stroke="#30363d"/>
+
+  <!-- Linux -->
+  <g transform="translate(4,52)">
+    <rect class="card" width="234" height="108" rx="6"/>
+    <rect class="box" x="14" y="16" width="52" height="52" rx="6"/>
+    <rect class="ic" x="25" y="29" width="30" height="26" rx="2"/>
+    <path class="ic" d="M31 37l5 4-5 4M39 47h8"/>
+    <g class="m"><text class="t" x="84" y="34">Linux</text>
+    <text class="s" x="84" y="58">Systems and</text><text class="s" x="84" y="77">administration</text></g>
+  </g>
+
+  <!-- Automation -->
+  <g transform="translate(256,52)">
+    <rect class="card" width="234" height="108" rx="6"/>
+    <rect class="box" x="14" y="16" width="52" height="52" rx="6"/>
+    <circle class="ic" cx="40" cy="42" r="5"/>
+    <path class="ic" d="M40 29v4M40 51v4M27 42h4M49 42h4M30.8 32.8l2.8 2.8M46.4 48.4l2.8 2.8M30.8 51.2l2.8-2.8M46.4 35.6l2.8-2.8"/>
+    <circle class="ic" cx="40" cy="42" r="10"/>
+    <g class="m"><text class="t" x="84" y="34">Automation</text>
+    <text class="s" x="84" y="58">Practical tools</text><text class="s" x="84" y="77">and workflows</text></g>
+  </g>
+
+  <!-- AI -->
+  <g transform="translate(508,52)">
+    <rect class="card" width="234" height="108" rx="6"/>
+    <rect class="box" x="14" y="16" width="52" height="52" rx="6"/>
+    <path class="ic" d="M40 29c-3-3-9-2-10 3-4 1-5 6-2 9-3 3-1 8 3 9 1 5 7 6 9 3zM40 29c3-3 9-2 10 3 4 1 5 6 2 9 3 3 1 8-3 9-1 5-7 6-9 3zM40 29v24M34 37h3l2 3M46 37h-3l-2 3M34 47h4M46 47h-4"/>
+    <g class="m"><text class="t" x="84" y="34">AI</text>
+    <text class="s" x="84" y="58">Intelligent systems</text><text class="s" x="84" y="77">and experiments</text></g>
+  </g>
+
+  <!-- Open Source -->
+  <g transform="translate(760,52)">
+    <rect class="card" width="236" height="108" rx="6"/>
+    <rect class="box" x="14" y="16" width="52" height="52" rx="6"/>
+    <circle class="ic" cx="40" cy="36" r="4"/><circle class="ic" cx="29" cy="39" r="3.2"/><circle class="ic" cx="51" cy="39" r="3.2"/>
+    <path class="ic" d="M32 54v-3a8 8 0 0 1 16 0v3zM22 54v-2a6 6 0 0 1 9-5M58 54v-2a6 6 0 0 0-9-5"/>
+    <g class="m"><text class="t" x="84" y="34">Open Source</text>
+    <text class="s" x="84" y="58">Learning and</text><text class="s" x="84" y="77">building together</text></g>
+  </g>
+</svg>

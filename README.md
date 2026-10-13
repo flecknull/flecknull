@@ -1,55 +1,19 @@
 <div align="center">
-  <img src="./assets/fleck-banner.png" alt="FLECK.NULL — dark terminal cyberpunk profile banner" width="100%" />
-</div>
 
-<div align="center">
+<img src="./assets/header.svg" width="100%" alt="FLECK.NULL — offline. evolving. build. learn. repeat." />
 
-`// OFFLINE. EVOLVING.`
+<img src="./assets/terminal.svg" width="100%" alt="guest@fleck:~$ whoami — Fleck Null. Building useful tools. Understanding systems. Automating the repetitive. Connecting beyond borders." />
 
-**BUILD. LEARN. REPEAT.**
+<img src="./assets/operations.svg" width="100%" alt="01 / Current operations: Linux, Automation, AI, Open Source" />
 
-`01000110 01001100`
+<a href="https://github.com/YOUR-USERNAME?tab=repositories"><img src="./assets/archive.svg" width="100%" alt="02 / Project archive: fleck-linux-toolkit (building), fleck-ai (planned)" /></a>
 
-</div>
+<sub><code>&gt; open</code> &nbsp;
+<a href="https://github.com/YOUR-USERNAME/fleck-linux-toolkit"><code>fleck-linux-toolkit</code></a> &nbsp;·&nbsp;
+<a href="https://github.com/YOUR-USERNAME/fleck-ai"><code>fleck-ai</code></a></sub>
 
----
+<img src="./assets/principles.svg" width="100%" alt="03 / Operating principles: understand before automating, build before boasting, share what is useful, keep evolving" />
 
-## `01 / CURRENT OPERATIONS`
-
-| Focus | Mission |
-|:--|:--|
-| `Linux` | Systems and administration |
-| `Automation` | Practical tools and workflows |
-| `AI` | Intelligent systems and experiments |
-| `Open Source` | Learning and building together |
-
-## `02 / PROJECT ARCHIVE`
-
-| Project | Purpose | Status |
-|:--|:--|:--|
-| [`fleck-linux-toolkit`](https://github.com/flecknull/fleck-linux-toolkit) | Linux diagnostics and administration utilities | `BUILDING` |
-| `fleck-ai` | Modular personal AI assistant | `PLANNED` |
-
-> Project links and status should be updated as the repositories become available.
-
-## `03 / OPERATING PRINCIPLES`
-
-```text
-guest@fleck:~$ cat principles.txt
-[01] Understand before automating.
-[02] Build before boasting.
-[03] Share what is useful.
-[04] Keep evolving.
-```
-
----
-
-<div align="center">
-
-```text
-guest@fleck:~$ _
-```
-
-*Unknown by design. Open to collaboration.*
+<img src="./assets/footer.svg" width="100%" alt="Unknown by design. Open to collaboration." />
 
 </div>
