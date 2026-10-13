@@ -9,7 +9,7 @@
 <a href="https://github.com/YOUR-USERNAME?tab=repositories"><img src="./assets/archive.svg" width="100%" alt="02 / Project archive: fleck-linux-toolkit (building), fleck-ai (planned)" /></a>
 
 <sub><code>&gt; open</code> &nbsp;
-<a href="https://github.com/YOUR-USERNAME/fleck-linux-toolkit"><code>fleck-linux-toolkit</code></a> &nbsp;·&nbsp;
+<a href="https://github.com/YOUR-USERNAME/fleck-linux-toolkit"><code>fleck-sentinel</code></a> &nbsp;·&nbsp;
 <a href="https://github.com/YOUR-USERNAME/fleck-ai"><code>fleck-ai</code></a></sub>
 
 <img src="./assets/principles.svg" width="100%" alt="03 / Operating principles: understand before automating, build before boasting, share what is useful, keep evolving" />
