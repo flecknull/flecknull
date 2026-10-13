@@ -6,7 +6,7 @@
 
 <img src="./assets/operations.svg" width="100%" alt="01 / Current operations: Linux, Automation, AI, Open Source" />
 
-<a href="https://github.com/YOUR-USERNAME?tab=repositories"><img src="./assets/archive.svg" width="100%" alt="02 / Project archive: fleck-linux-toolkit (building), fleck-ai (planned)" /></a>
+<a href="https://github.com/YOUR-USERNAME?tab=repositories"><img src="./assets/archive.svg" width="100%" alt="02 / Project archive: fleck-sentinel (building), fleck-ai (planned)" /></a>
 
 <sub><code>&gt; open</code> &nbsp;
 <a href="https://github.com/YOUR-USERNAME/fleck-sentinel"><code>fleck-sentinel</code></a> &nbsp;·&nbsp;
